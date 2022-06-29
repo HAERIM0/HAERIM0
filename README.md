@@ -1,5 +1,5 @@
 # Hi there 👋
-### 🌱front-end 개발자가 되고싶은 고등학생입니다 :)
+### 🌱front-end 개발자가 되고 싶은 고등학생입니다 :)
 <h2>Tech Stack<h2>
 
 <!--
