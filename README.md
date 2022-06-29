@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱
+🌱front-end 개발자가 되고싶은 고등학생입니다 :)
 <!--
 **HAERIM0/HAERIM0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
